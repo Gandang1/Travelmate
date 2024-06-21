@@ -63,4 +63,4 @@ Here's an updated list of features:
 39. Activities booking
 40. Two-way full package
 
-Let me know if you'd like to add or refine any features!
+Let me know if you'd like to add or refine any features
